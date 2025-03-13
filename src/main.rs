@@ -5,3 +5,7 @@ fn main() {
 
 fn this_will_conflict() {
 }
+
+fn something() {
+    println!("Something");
+}
