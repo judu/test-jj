@@ -2,3 +2,8 @@
 fn main() {
     println!("Hello, world!");
 }
+ 
+/// This function prints nothing
+fn nothing() {
+ println!("Nothing");
+}
