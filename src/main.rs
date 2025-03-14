@@ -2,3 +2,6 @@
 fn main() {
     println!("Hello, world!");
 }
+
+fn this_will_conflict() {
+}
